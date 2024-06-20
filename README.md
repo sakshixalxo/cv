@@ -1,1 +1,5 @@
-# cv
+Welcome to my first-ever resume site! 
+
+This project marks my initial venture into web development, where I learned and implemented the basics of HTML and CSS. The site consists of an index page that provides an overview of my professional background, skills, experience, and education. Additionally, the site features a contact page with my contact information and a simple contact form, as well as a hobbies page that showcases my personal interests. This project not only helped me understand the structure and styling of web pages but also gave me hands-on experience in creating a functional and visually appealing static website.
+
+Creating this resume site was a significant learning experience, allowing me to apply fundamental web development concepts in a practical project. By using HTML, I structured the content effectively, and with CSS, I enhanced the visual presentation and ensured responsiveness across different devices. This project highlights my journey into web development and serves as a testament to my newly acquired skills. Feel free to explore the site to learn more about me, get in touch via the contact page, and discover my hobbies and interests.
